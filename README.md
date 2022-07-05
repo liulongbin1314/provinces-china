@@ -2,7 +2,7 @@
 
 > city-data-element.js 是针对 element-ui 中，级联选择器设计的省市区数据。该数据来自国家统计局。
 
-> 更新时间 2020-09-23
+> 更新时间 2022-07-05
 
 ## element-ui 中 Cascader 组件的使用示例
 
