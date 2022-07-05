@@ -52,3 +52,5 @@ export default {
 ## 相关链接
 
 [统计用区划和城乡划分代码](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/)
+
+[中国省市区数据，适用于 Vant Area 组件](https://github.com/youzan/vant/blob/dev/packages/vant-area-data/src/index.ts)

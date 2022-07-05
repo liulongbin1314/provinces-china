@@ -91,6 +91,12 @@ export default [
           { p_id: '1301', label: '平山县', value: '平山县' },
           { p_id: '1301', label: '元氏县', value: '元氏县' },
           { p_id: '1301', label: '赵县', value: '赵县' },
+          {
+            p_id: '1301',
+            label: '石家庄高新技术产业开发区',
+            value: '石家庄高新技术产业开发区'
+          },
+          { p_id: '1301', label: '石家庄循环化工园区', value: '石家庄循环化工园区' },
           { p_id: '1301', label: '辛集市', value: '辛集市' },
           { p_id: '1301', label: '晋州市', value: '晋州市' },
           { p_id: '1301', label: '新乐市', value: '新乐市' }
@@ -113,6 +119,8 @@ export default [
           { p_id: '1302', label: '乐亭县', value: '乐亭县' },
           { p_id: '1302', label: '迁西县', value: '迁西县' },
           { p_id: '1302', label: '玉田县', value: '玉田县' },
+          { p_id: '1302', label: '唐山高新技术产业开发区', value: '唐山高新技术产业开发区' },
+          { p_id: '1302', label: '河北唐山海港经济开发区', value: '河北唐山海港经济开发区' },
           { p_id: '1302', label: '遵化市', value: '遵化市' },
           { p_id: '1302', label: '迁安市', value: '迁安市' },
           { p_id: '1302', label: '滦州市', value: '滦州市' }
@@ -131,6 +139,8 @@ export default [
           { p_id: '1303', label: '青龙满族自治县', value: '青龙满族自治县' },
           { p_id: '1303', label: '昌黎县', value: '昌黎县' },
           { p_id: '1303', label: '卢龙县', value: '卢龙县' },
+          { p_id: '1303', label: '秦皇岛市经济技术开发区', value: '秦皇岛市经济技术开发区' },
+          { p_id: '1303', label: '北戴河新区', value: '北戴河新区' },
           { p_id: '1303', label: '经济技术开发区', value: '经济技术开发区' }
         ]
       },
@@ -157,6 +167,8 @@ export default [
           { p_id: '1304', label: '馆陶县', value: '馆陶县' },
           { p_id: '1304', label: '魏县', value: '魏县' },
           { p_id: '1304', label: '曲周县', value: '曲周县' },
+          { p_id: '1304', label: '邯郸经济技术开发区', value: '邯郸经济技术开发区' },
+          { p_id: '1304', label: '邯郸冀南新区', value: '邯郸冀南新区' },
           { p_id: '1304', label: '武安市', value: '武安市' }
         ]
       },
@@ -166,15 +178,14 @@ export default [
         label: '邢台市',
         value: '邢台市',
         children: [
-          { p_id: '1305', label: '桥东区', value: '桥东区' },
-          { p_id: '1305', label: '桥西区', value: '桥西区' },
-          { p_id: '1305', label: '邢台县', value: '邢台县' },
+          { p_id: '1305', label: '襄都区', value: '襄都区' },
+          { p_id: '1305', label: '信都区', value: '信都区' },
+          { p_id: '1305', label: '任泽区', value: '任泽区' },
+          { p_id: '1305', label: '南和区', value: '南和区' },
           { p_id: '1305', label: '临城县', value: '临城县' },
           { p_id: '1305', label: '内丘县', value: '内丘县' },
           { p_id: '1305', label: '柏乡县', value: '柏乡县' },
           { p_id: '1305', label: '隆尧县', value: '隆尧县' },
-          { p_id: '1305', label: '任县', value: '任县' },
-          { p_id: '1305', label: '南和县', value: '南和县' },
           { p_id: '1305', label: '宁晋县', value: '宁晋县' },
           { p_id: '1305', label: '巨鹿县', value: '巨鹿县' },
           { p_id: '1305', label: '新河县', value: '新河县' },
@@ -183,6 +194,7 @@ export default [
           { p_id: '1305', label: '威县', value: '威县' },
           { p_id: '1305', label: '清河县', value: '清河县' },
           { p_id: '1305', label: '临西县', value: '临西县' },
+          { p_id: '1305', label: '河北邢台经济开发区', value: '河北邢台经济开发区' },
           { p_id: '1305', label: '南宫市', value: '南宫市' },
           { p_id: '1305', label: '沙河市', value: '沙河市' }
         ]
@@ -213,6 +225,8 @@ export default [
           { p_id: '1306', label: '顺平县', value: '顺平县' },
           { p_id: '1306', label: '博野县', value: '博野县' },
           { p_id: '1306', label: '雄县', value: '雄县' },
+          { p_id: '1306', label: '保定高新技术产业开发区', value: '保定高新技术产业开发区' },
+          { p_id: '1306', label: '保定白沟新城', value: '保定白沟新城' },
           { p_id: '1306', label: '涿州市', value: '涿州市' },
           { p_id: '1306', label: '定州市', value: '定州市' },
           { p_id: '1306', label: '安国市', value: '安国市' },
@@ -240,7 +254,8 @@ export default [
           { p_id: '1307', label: '怀安县', value: '怀安县' },
           { p_id: '1307', label: '怀来县', value: '怀来县' },
           { p_id: '1307', label: '涿鹿县', value: '涿鹿县' },
-          { p_id: '1307', label: '赤城县', value: '赤城县' }
+          { p_id: '1307', label: '赤城县', value: '赤城县' },
+          { p_id: '1307', label: '张家口市察北管理区', value: '张家口市察北管理区' }
         ]
       },
       {
@@ -259,6 +274,7 @@ export default [
           { p_id: '1308', label: '丰宁满族自治县', value: '丰宁满族自治县' },
           { p_id: '1308', label: '宽城满族自治县', value: '宽城满族自治县' },
           { p_id: '1308', label: '围场满族蒙古族自治县', value: '围场满族蒙古族自治县' },
+          { p_id: '1308', label: '承德高新技术产业开发区', value: '承德高新技术产业开发区' },
           { p_id: '1308', label: '平泉市', value: '平泉市' }
         ]
       },
@@ -280,6 +296,9 @@ export default [
           { p_id: '1309', label: '吴桥县', value: '吴桥县' },
           { p_id: '1309', label: '献县', value: '献县' },
           { p_id: '1309', label: '孟村回族自治县', value: '孟村回族自治县' },
+          { p_id: '1309', label: '河北沧州经济开发区', value: '河北沧州经济开发区' },
+          { p_id: '1309', label: '沧州高新技术产业开发区', value: '沧州高新技术产业开发区' },
+          { p_id: '1309', label: '沧州渤海新区', value: '沧州渤海新区' },
           { p_id: '1309', label: '泊头市', value: '泊头市' },
           { p_id: '1309', label: '任丘市', value: '任丘市' },
           { p_id: '1309', label: '黄骅市', value: '黄骅市' },
@@ -300,6 +319,7 @@ export default [
           { p_id: '1310', label: '大城县', value: '大城县' },
           { p_id: '1310', label: '文安县', value: '文安县' },
           { p_id: '1310', label: '大厂回族自治县', value: '大厂回族自治县' },
+          { p_id: '1310', label: '廊坊经济技术开发区', value: '廊坊经济技术开发区' },
           { p_id: '1310', label: '霸州市', value: '霸州市' },
           { p_id: '1310', label: '三河市', value: '三河市' },
           { p_id: '1310', label: '开发区', value: '开发区' }
@@ -321,6 +341,8 @@ export default [
           { p_id: '1311', label: '故城县', value: '故城县' },
           { p_id: '1311', label: '景县', value: '景县' },
           { p_id: '1311', label: '阜城县', value: '阜城县' },
+          { p_id: '1311', label: '河北衡水经济开发区', value: '河北衡水经济开发区' },
+          { p_id: '1311', label: '衡水滨湖新区', value: '衡水滨湖新区' },
           { p_id: '1311', label: '深州市', value: '深州市' }
         ]
       }
@@ -364,7 +386,8 @@ export default [
           { p_id: '1402', label: '广灵县', value: '广灵县' },
           { p_id: '1402', label: '灵丘县', value: '灵丘县' },
           { p_id: '1402', label: '浑源县', value: '浑源县' },
-          { p_id: '1402', label: '左云县', value: '左云县' }
+          { p_id: '1402', label: '左云县', value: '左云县' },
+          { p_id: '1402', label: '山西大同经济开发区', value: '山西大同经济开发区' }
         ]
       },
       {
@@ -397,7 +420,12 @@ export default [
           { p_id: '1404', label: '长子县', value: '长子县' },
           { p_id: '1404', label: '武乡县', value: '武乡县' },
           { p_id: '1404', label: '沁县', value: '沁县' },
-          { p_id: '1404', label: '沁源县', value: '沁源县' }
+          { p_id: '1404', label: '沁源县', value: '沁源县' },
+          {
+            p_id: '1404',
+            label: '山西长治高新技术产业园区',
+            value: '山西长治高新技术产业园区'
+          }
         ]
       },
       {
@@ -425,6 +453,7 @@ export default [
           { p_id: '1406', label: '山阴县', value: '山阴县' },
           { p_id: '1406', label: '应县', value: '应县' },
           { p_id: '1406', label: '右玉县', value: '右玉县' },
+          { p_id: '1406', label: '山西朔州经济开发区', value: '山西朔州经济开发区' },
           { p_id: '1406', label: '怀仁市', value: '怀仁市' }
         ]
       },
@@ -435,12 +464,12 @@ export default [
         value: '晋中市',
         children: [
           { p_id: '1407', label: '榆次区', value: '榆次区' },
+          { p_id: '1407', label: '太谷区', value: '太谷区' },
           { p_id: '1407', label: '榆社县', value: '榆社县' },
           { p_id: '1407', label: '左权县', value: '左权县' },
           { p_id: '1407', label: '和顺县', value: '和顺县' },
           { p_id: '1407', label: '昔阳县', value: '昔阳县' },
           { p_id: '1407', label: '寿阳县', value: '寿阳县' },
-          { p_id: '1407', label: '太谷县', value: '太谷县' },
           { p_id: '1407', label: '祁县', value: '祁县' },
           { p_id: '1407', label: '平遥县', value: '平遥县' },
           { p_id: '1407', label: '灵石县', value: '灵石县' },
@@ -487,6 +516,7 @@ export default [
           { p_id: '1409', label: '河曲县', value: '河曲县' },
           { p_id: '1409', label: '保德县', value: '保德县' },
           { p_id: '1409', label: '偏关县', value: '偏关县' },
+          { p_id: '1409', label: '五台山风景名胜区', value: '五台山风景名胜区' },
           { p_id: '1409', label: '原平市', value: '原平市' }
         ]
       },
@@ -557,7 +587,8 @@ export default [
           { p_id: '1501', label: '托克托县', value: '托克托县' },
           { p_id: '1501', label: '和林格尔县', value: '和林格尔县' },
           { p_id: '1501', label: '清水河县', value: '清水河县' },
-          { p_id: '1501', label: '武川县', value: '武川县' }
+          { p_id: '1501', label: '武川县', value: '武川县' },
+          { p_id: '1501', label: '呼和浩特经济技术开发区', value: '呼和浩特经济技术开发区' }
         ]
       },
       {
@@ -574,7 +605,12 @@ export default [
           { p_id: '1502', label: '九原区', value: '九原区' },
           { p_id: '1502', label: '土默特右旗', value: '土默特右旗' },
           { p_id: '1502', label: '固阳县', value: '固阳县' },
-          { p_id: '1502', label: '达尔罕茂明安联合旗', value: '达尔罕茂明安联合旗' }
+          { p_id: '1502', label: '达尔罕茂明安联合旗', value: '达尔罕茂明安联合旗' },
+          {
+            p_id: '1502',
+            label: '包头稀土高新技术产业开发区',
+            value: '包头稀土高新技术产业开发区'
+          }
         ]
       },
       {
@@ -621,6 +657,7 @@ export default [
           { p_id: '1505', label: '库伦旗', value: '库伦旗' },
           { p_id: '1505', label: '奈曼旗', value: '奈曼旗' },
           { p_id: '1505', label: '扎鲁特旗', value: '扎鲁特旗' },
+          { p_id: '1505', label: '通辽经济技术开发区', value: '通辽经济技术开发区' },
           { p_id: '1505', label: '霍林郭勒市', value: '霍林郭勒市' }
         ]
       },
@@ -728,7 +765,8 @@ export default [
           { p_id: '1525', label: '镶黄旗', value: '镶黄旗' },
           { p_id: '1525', label: '正镶白旗', value: '正镶白旗' },
           { p_id: '1525', label: '正蓝旗', value: '正蓝旗' },
-          { p_id: '1525', label: '多伦县', value: '多伦县' }
+          { p_id: '1525', label: '多伦县', value: '多伦县' },
+          { p_id: '1525', label: '乌拉盖管委会', value: '乌拉盖管委会' }
         ]
       },
       {
@@ -739,7 +777,8 @@ export default [
         children: [
           { p_id: '1529', label: '阿拉善左旗', value: '阿拉善左旗' },
           { p_id: '1529', label: '阿拉善右旗', value: '阿拉善右旗' },
-          { p_id: '1529', label: '额济纳旗', value: '额济纳旗' }
+          { p_id: '1529', label: '额济纳旗', value: '额济纳旗' },
+          { p_id: '1529', label: '内蒙古阿拉善经济开发区', value: '内蒙古阿拉善经济开发区' }
         ]
       }
     ]
@@ -985,6 +1024,14 @@ export default [
           { p_id: '2201', label: '双阳区', value: '双阳区' },
           { p_id: '2201', label: '九台区', value: '九台区' },
           { p_id: '2201', label: '农安县', value: '农安县' },
+          { p_id: '2201', label: '长春经济技术开发区', value: '长春经济技术开发区' },
+          {
+            p_id: '2201',
+            label: '长春净月高新技术产业开发区',
+            value: '长春净月高新技术产业开发区'
+          },
+          { p_id: '2201', label: '长春高新技术产业开发区', value: '长春高新技术产业开发区' },
+          { p_id: '2201', label: '长春汽车经济技术开发区', value: '长春汽车经济技术开发区' },
           { p_id: '2201', label: '榆树市', value: '榆树市' },
           { p_id: '2201', label: '德惠市', value: '德惠市' },
           { p_id: '2201', label: '经济技术开发区', value: '经济技术开发区' }
@@ -1001,6 +1048,8 @@ export default [
           { p_id: '2202', label: '船营区', value: '船营区' },
           { p_id: '2202', label: '丰满区', value: '丰满区' },
           { p_id: '2202', label: '永吉县', value: '永吉县' },
+          { p_id: '2202', label: '吉林经济开发区', value: '吉林经济开发区' },
+          { p_id: '2202', label: '吉林高新技术产业开发区', value: '吉林高新技术产业开发区' },
           { p_id: '2202', label: '蛟河市', value: '蛟河市' },
           { p_id: '2202', label: '桦甸市', value: '桦甸市' },
           { p_id: '2202', label: '舒兰市', value: '舒兰市' },
@@ -1072,6 +1121,7 @@ export default [
           { p_id: '2207', label: '前郭尔罗斯蒙古族自治县', value: '前郭尔罗斯蒙古族自治县' },
           { p_id: '2207', label: '长岭县', value: '长岭县' },
           { p_id: '2207', label: '乾安县', value: '乾安县' },
+          { p_id: '2207', label: '吉林松原经济开发区', value: '吉林松原经济开发区' },
           { p_id: '2207', label: '扶余市', value: '扶余市' }
         ]
       },
@@ -1084,6 +1134,7 @@ export default [
           { p_id: '2208', label: '洮北区', value: '洮北区' },
           { p_id: '2208', label: '镇赉县', value: '镇赉县' },
           { p_id: '2208', label: '通榆县', value: '通榆县' },
+          { p_id: '2208', label: '吉林白城经济开发区', value: '吉林白城经济开发区' },
           { p_id: '2208', label: '洮南市', value: '洮南市' },
           { p_id: '2208', label: '大安市', value: '大安市' }
         ]
@@ -1224,7 +1275,8 @@ export default [
           { p_id: '2306', label: '肇州县', value: '肇州县' },
           { p_id: '2306', label: '肇源县', value: '肇源县' },
           { p_id: '2306', label: '林甸县', value: '林甸县' },
-          { p_id: '2306', label: '杜尔伯特蒙古族自治县', value: '杜尔伯特蒙古族自治县' }
+          { p_id: '2306', label: '杜尔伯特蒙古族自治县', value: '杜尔伯特蒙古族自治县' },
+          { p_id: '2306', label: '大庆高新技术产业开发区', value: '大庆高新技术产业开发区' }
         ]
       },
       {
@@ -1233,22 +1285,15 @@ export default [
         label: '伊春市',
         value: '伊春市',
         children: [
-          { p_id: '2307', label: '伊春区', value: '伊春区' },
-          { p_id: '2307', label: '南岔区', value: '南岔区' },
+          { p_id: '2307', label: '伊美区', value: '伊美区' },
+          { p_id: '2307', label: '乌翠区', value: '乌翠区' },
           { p_id: '2307', label: '友好区', value: '友好区' },
-          { p_id: '2307', label: '西林区', value: '西林区' },
-          { p_id: '2307', label: '翠峦区', value: '翠峦区' },
-          { p_id: '2307', label: '新青区', value: '新青区' },
-          { p_id: '2307', label: '美溪区', value: '美溪区' },
-          { p_id: '2307', label: '金山屯区', value: '金山屯区' },
-          { p_id: '2307', label: '五营区', value: '五营区' },
-          { p_id: '2307', label: '乌马河区', value: '乌马河区' },
-          { p_id: '2307', label: '汤旺河区', value: '汤旺河区' },
-          { p_id: '2307', label: '带岭区', value: '带岭区' },
-          { p_id: '2307', label: '乌伊岭区', value: '乌伊岭区' },
-          { p_id: '2307', label: '红星区', value: '红星区' },
-          { p_id: '2307', label: '上甘岭区', value: '上甘岭区' },
           { p_id: '2307', label: '嘉荫县', value: '嘉荫县' },
+          { p_id: '2307', label: '汤旺县', value: '汤旺县' },
+          { p_id: '2307', label: '丰林县', value: '丰林县' },
+          { p_id: '2307', label: '大箐山县', value: '大箐山县' },
+          { p_id: '2307', label: '南岔县', value: '南岔县' },
+          { p_id: '2307', label: '金林区', value: '金林区' },
           { p_id: '2307', label: '铁力市', value: '铁力市' }
         ]
       },
@@ -1307,11 +1352,11 @@ export default [
         value: '黑河市',
         children: [
           { p_id: '2311', label: '爱辉区', value: '爱辉区' },
-          { p_id: '2311', label: '嫩江县', value: '嫩江县' },
           { p_id: '2311', label: '逊克县', value: '逊克县' },
           { p_id: '2311', label: '孙吴县', value: '孙吴县' },
           { p_id: '2311', label: '北安市', value: '北安市' },
-          { p_id: '2311', label: '五大连池市', value: '五大连池市' }
+          { p_id: '2311', label: '五大连池市', value: '五大连池市' },
+          { p_id: '2311', label: '嫩江市', value: '嫩江市' }
         ]
       },
       {
@@ -1396,6 +1441,7 @@ export default [
           { p_id: '3201', label: '建邺区', value: '建邺区' },
           { p_id: '3201', label: '鼓楼区', value: '鼓楼区' },
           { p_id: '3201', label: '浦口区', value: '浦口区' },
+          { p_id: '3201', label: '江北新区', value: '江北新区' },
           { p_id: '3201', label: '栖霞区', value: '栖霞区' },
           { p_id: '3201', label: '雨花台区', value: '雨花台区' },
           { p_id: '3201', label: '江宁区', value: '江宁区' },
@@ -1433,6 +1479,7 @@ export default [
           { p_id: '3203', label: '丰县', value: '丰县' },
           { p_id: '3203', label: '沛县', value: '沛县' },
           { p_id: '3203', label: '睢宁县', value: '睢宁县' },
+          { p_id: '3203', label: '徐州经济技术开发区', value: '徐州经济技术开发区' },
           { p_id: '3203', label: '新沂市', value: '新沂市' },
           { p_id: '3203', label: '邳州市', value: '邳州市' },
           { p_id: '3203', label: '工业园区', value: '工业园区' }
@@ -1463,6 +1510,7 @@ export default [
           { p_id: '3205', label: '相城区', value: '相城区' },
           { p_id: '3205', label: '姑苏区', value: '姑苏区' },
           { p_id: '3205', label: '吴江区', value: '吴江区' },
+          { p_id: '3205', label: '苏州工业园区', value: '苏州工业园区' },
           { p_id: '3205', label: '常熟市', value: '常熟市' },
           { p_id: '3205', label: '张家港市', value: '张家港市' },
           { p_id: '3205', label: '昆山市', value: '昆山市' },
@@ -1499,7 +1547,8 @@ export default [
           { p_id: '3207', label: '赣榆区', value: '赣榆区' },
           { p_id: '3207', label: '东海县', value: '东海县' },
           { p_id: '3207', label: '灌云县', value: '灌云县' },
-          { p_id: '3207', label: '灌南县', value: '灌南县' }
+          { p_id: '3207', label: '灌南县', value: '灌南县' },
+          { p_id: '3207', label: '连云港经济技术开发区', value: '连云港经济技术开发区' }
         ]
       },
       {
@@ -1515,6 +1564,7 @@ export default [
           { p_id: '3208', label: '涟水县', value: '涟水县' },
           { p_id: '3208', label: '盱眙县', value: '盱眙县' },
           { p_id: '3208', label: '金湖县', value: '金湖县' },
+          { p_id: '3208', label: '淮安经济技术开发区', value: '淮安经济技术开发区' },
           { p_id: '3208', label: '经济开发区', value: '经济开发区' }
         ]
       },
@@ -1532,6 +1582,7 @@ export default [
           { p_id: '3209', label: '阜宁县', value: '阜宁县' },
           { p_id: '3209', label: '射阳县', value: '射阳县' },
           { p_id: '3209', label: '建湖县', value: '建湖县' },
+          { p_id: '3209', label: '盐城经济技术开发区', value: '盐城经济技术开发区' },
           { p_id: '3209', label: '东台市', value: '东台市' }
         ]
       },
@@ -1545,6 +1596,7 @@ export default [
           { p_id: '3210', label: '邗江区', value: '邗江区' },
           { p_id: '3210', label: '江都区', value: '江都区' },
           { p_id: '3210', label: '宝应县', value: '宝应县' },
+          { p_id: '3210', label: '扬州经济技术开发区', value: '扬州经济技术开发区' },
           { p_id: '3210', label: '仪征市', value: '仪征市' },
           { p_id: '3210', label: '高邮市', value: '高邮市' },
           { p_id: '3210', label: '经济开发区', value: '经济开发区' }
@@ -1559,6 +1611,7 @@ export default [
           { p_id: '3211', label: '京口区', value: '京口区' },
           { p_id: '3211', label: '润州区', value: '润州区' },
           { p_id: '3211', label: '丹徒区', value: '丹徒区' },
+          { p_id: '3211', label: '镇江新区', value: '镇江新区' },
           { p_id: '3211', label: '丹阳市', value: '丹阳市' },
           { p_id: '3211', label: '扬中市', value: '扬中市' },
           { p_id: '3211', label: '句容市', value: '句容市' }
@@ -1573,6 +1626,11 @@ export default [
           { p_id: '3212', label: '海陵区', value: '海陵区' },
           { p_id: '3212', label: '高港区', value: '高港区' },
           { p_id: '3212', label: '姜堰区', value: '姜堰区' },
+          {
+            p_id: '3212',
+            label: '泰州医药高新技术产业开发区',
+            value: '泰州医药高新技术产业开发区'
+          },
           { p_id: '3212', label: '兴化市', value: '兴化市' },
           { p_id: '3212', label: '靖江市', value: '靖江市' },
           { p_id: '3212', label: '泰兴市', value: '泰兴市' }
@@ -1588,7 +1646,8 @@ export default [
           { p_id: '3213', label: '宿豫区', value: '宿豫区' },
           { p_id: '3213', label: '沭阳县', value: '沭阳县' },
           { p_id: '3213', label: '泗阳县', value: '泗阳县' },
-          { p_id: '3213', label: '泗洪县', value: '泗洪县' }
+          { p_id: '3213', label: '泗洪县', value: '泗洪县' },
+          { p_id: '3213', label: '宿迁经济技术开发区', value: '宿迁经济技术开发区' }
         ]
       }
     ]
@@ -1605,8 +1664,6 @@ export default [
         value: '杭州市',
         children: [
           { p_id: '3301', label: '上城区', value: '上城区' },
-          { p_id: '3301', label: '下城区', value: '下城区' },
-          { p_id: '3301', label: '江干区', value: '江干区' },
           { p_id: '3301', label: '拱墅区', value: '拱墅区' },
           { p_id: '3301', label: '西湖区', value: '西湖区' },
           { p_id: '3301', label: '滨江区', value: '滨江区' },
@@ -1614,6 +1671,8 @@ export default [
           { p_id: '3301', label: '余杭区', value: '余杭区' },
           { p_id: '3301', label: '富阳区', value: '富阳区' },
           { p_id: '3301', label: '临安区', value: '临安区' },
+          { p_id: '3301', label: '临平区', value: '临平区' },
+          { p_id: '3301', label: '钱塘区', value: '钱塘区' },
           { p_id: '3301', label: '桐庐县', value: '桐庐县' },
           { p_id: '3301', label: '淳安县', value: '淳安县' },
           { p_id: '3301', label: '建德市', value: '建德市' }
@@ -1653,7 +1712,8 @@ export default [
           { p_id: '3303', label: '文成县', value: '文成县' },
           { p_id: '3303', label: '泰顺县', value: '泰顺县' },
           { p_id: '3303', label: '瑞安市', value: '瑞安市' },
-          { p_id: '3303', label: '乐清市', value: '乐清市' }
+          { p_id: '3303', label: '乐清市', value: '乐清市' },
+          { p_id: '3303', label: '龙港市', value: '龙港市' }
         ]
       },
       {
@@ -1796,6 +1856,13 @@ export default [
           { p_id: '3401', label: '肥东县', value: '肥东县' },
           { p_id: '3401', label: '肥西县', value: '肥西县' },
           { p_id: '3401', label: '庐江县', value: '庐江县' },
+          { p_id: '3401', label: '合肥高新技术产业开发区', value: '合肥高新技术产业开发区' },
+          { p_id: '3401', label: '合肥经济技术开发区', value: '合肥经济技术开发区' },
+          {
+            p_id: '3401',
+            label: '合肥新站高新技术产业开发区',
+            value: '合肥新站高新技术产业开发区'
+          },
           { p_id: '3401', label: '巢湖市', value: '巢湖市' },
           { p_id: '3401', label: '高新技术开发区', value: '高新技术开发区' },
           { p_id: '3401', label: '经济技术开发区', value: '经济技术开发区' }
@@ -1814,7 +1881,7 @@ export default [
           { p_id: '3402', label: '芜湖县', value: '芜湖县' },
           { p_id: '3402', label: '繁昌县', value: '繁昌县' },
           { p_id: '3402', label: '南陵县', value: '南陵县' },
-          { p_id: '3402', label: '无为县', value: '无为县' }
+          { p_id: '3402', label: '无为市', value: '无为市' }
         ]
       },
       {
@@ -1829,7 +1896,9 @@ export default [
           { p_id: '3403', label: '淮上区', value: '淮上区' },
           { p_id: '3403', label: '怀远县', value: '怀远县' },
           { p_id: '3403', label: '五河县', value: '五河县' },
-          { p_id: '3403', label: '固镇县', value: '固镇县' }
+          { p_id: '3403', label: '固镇县', value: '固镇县' },
+          { p_id: '3403', label: '蚌埠市高新技术开发区', value: '蚌埠市高新技术开发区' },
+          { p_id: '3403', label: '蚌埠市经济开发区', value: '蚌埠市经济开发区' }
         ]
       },
       {
@@ -1895,12 +1964,12 @@ export default [
           { p_id: '3408', label: '大观区', value: '大观区' },
           { p_id: '3408', label: '宜秀区', value: '宜秀区' },
           { p_id: '3408', label: '怀宁县', value: '怀宁县' },
-          { p_id: '3408', label: '潜山县', value: '潜山县' },
           { p_id: '3408', label: '太湖县', value: '太湖县' },
           { p_id: '3408', label: '宿松县', value: '宿松县' },
           { p_id: '3408', label: '望江县', value: '望江县' },
           { p_id: '3408', label: '岳西县', value: '岳西县' },
-          { p_id: '3408', label: '桐城市', value: '桐城市' }
+          { p_id: '3408', label: '桐城市', value: '桐城市' },
+          { p_id: '3408', label: '潜山市', value: '潜山市' }
         ]
       },
       {
@@ -1947,6 +2016,7 @@ export default [
           { p_id: '3412', label: '太和县', value: '太和县' },
           { p_id: '3412', label: '阜南县', value: '阜南县' },
           { p_id: '3412', label: '颍上县', value: '颍上县' },
+          { p_id: '3412', label: '阜阳合肥现代产业园区', value: '阜阳合肥现代产业园区' },
           { p_id: '3412', label: '界首市', value: '界首市' }
         ]
       },
@@ -1961,6 +2031,8 @@ export default [
           { p_id: '3413', label: '萧县', value: '萧县' },
           { p_id: '3413', label: '灵璧县', value: '灵璧县' },
           { p_id: '3413', label: '泗县', value: '泗县' },
+          { p_id: '3413', label: '宿州马鞍山现代产业园区', value: '宿州马鞍山现代产业园区' },
+          { p_id: '3413', label: '宿州经济技术开发区', value: '宿州经济技术开发区' },
           { p_id: '3413', label: '经济开发区', value: '经济开发区' }
         ]
       },
@@ -2011,11 +2083,12 @@ export default [
         children: [
           { p_id: '3418', label: '宣州区', value: '宣州区' },
           { p_id: '3418', label: '郎溪县', value: '郎溪县' },
-          { p_id: '3418', label: '广德县', value: '广德县' },
           { p_id: '3418', label: '泾县', value: '泾县' },
           { p_id: '3418', label: '绩溪县', value: '绩溪县' },
           { p_id: '3418', label: '旌德县', value: '旌德县' },
-          { p_id: '3418', label: '宁国市', value: '宁国市' }
+          { p_id: '3418', label: '宣城市经济开发区', value: '宣城市经济开发区' },
+          { p_id: '3418', label: '宁国市', value: '宁国市' },
+          { p_id: '3418', label: '广德市', value: '广德市' }
         ]
       }
     ]
@@ -2198,9 +2271,9 @@ export default [
           { p_id: '3601', label: '东湖区', value: '东湖区' },
           { p_id: '3601', label: '西湖区', value: '西湖区' },
           { p_id: '3601', label: '青云谱区', value: '青云谱区' },
-          { p_id: '3601', label: '湾里区', value: '湾里区' },
           { p_id: '3601', label: '青山湖区', value: '青山湖区' },
           { p_id: '3601', label: '新建区', value: '新建区' },
+          { p_id: '3601', label: '红谷滩区', value: '红谷滩区' },
           { p_id: '3601', label: '南昌县', value: '南昌县' },
           { p_id: '3601', label: '安义县', value: '安义县' },
           { p_id: '3601', label: '进贤县', value: '进贤县' },
@@ -2368,7 +2441,7 @@ export default [
         children: [
           { p_id: '3611', label: '信州区', value: '信州区' },
           { p_id: '3611', label: '广丰区', value: '广丰区' },
-          { p_id: '3611', label: '上饶县', value: '上饶县' },
+          { p_id: '3611', label: '广信区', value: '广信区' },
           { p_id: '3611', label: '玉山县', value: '玉山县' },
           { p_id: '3611', label: '铅山县', value: '铅山县' },
           { p_id: '3611', label: '横峰县', value: '横峰县' },
@@ -2405,6 +2478,7 @@ export default [
           { p_id: '3701', label: '钢城区', value: '钢城区' },
           { p_id: '3701', label: '平阴县', value: '平阴县' },
           { p_id: '3701', label: '商河县', value: '商河县' },
+          { p_id: '3701', label: '济南高新技术产业开发区', value: '济南高新技术产业开发区' },
           { p_id: '3701', label: '高新区', value: '高新区' }
         ]
       },
@@ -2421,6 +2495,7 @@ export default [
           { p_id: '3702', label: '李沧区', value: '李沧区' },
           { p_id: '3702', label: '城阳区', value: '城阳区' },
           { p_id: '3702', label: '即墨区', value: '即墨区' },
+          { p_id: '3702', label: '青岛高新技术产业开发区', value: '青岛高新技术产业开发区' },
           { p_id: '3702', label: '胶州市', value: '胶州市' },
           { p_id: '3702', label: '平度市', value: '平度市' },
           { p_id: '3702', label: '莱西市', value: '莱西市' },
@@ -2467,7 +2542,9 @@ export default [
           { p_id: '3705', label: '河口区', value: '河口区' },
           { p_id: '3705', label: '垦利区', value: '垦利区' },
           { p_id: '3705', label: '利津县', value: '利津县' },
-          { p_id: '3705', label: '广饶县', value: '广饶县' }
+          { p_id: '3705', label: '广饶县', value: '广饶县' },
+          { p_id: '3705', label: '东营经济技术开发区', value: '东营经济技术开发区' },
+          { p_id: '3705', label: '东营港经济开发区', value: '东营港经济开发区' }
         ]
       },
       {
@@ -2481,6 +2558,8 @@ export default [
           { p_id: '3706', label: '牟平区', value: '牟平区' },
           { p_id: '3706', label: '莱山区', value: '莱山区' },
           { p_id: '3706', label: '长岛县', value: '长岛县' },
+          { p_id: '3706', label: '烟台高新技术产业开发区', value: '烟台高新技术产业开发区' },
+          { p_id: '3706', label: '烟台经济技术开发区', value: '烟台经济技术开发区' },
           { p_id: '3706', label: '龙口市', value: '龙口市' },
           { p_id: '3706', label: '莱阳市', value: '莱阳市' },
           { p_id: '3706', label: '莱州市', value: '莱州市' },
@@ -2503,6 +2582,7 @@ export default [
           { p_id: '3707', label: '奎文区', value: '奎文区' },
           { p_id: '3707', label: '临朐县', value: '临朐县' },
           { p_id: '3707', label: '昌乐县', value: '昌乐县' },
+          { p_id: '3707', label: '潍坊滨海经济技术开发区', value: '潍坊滨海经济技术开发区' },
           { p_id: '3707', label: '青州市', value: '青州市' },
           { p_id: '3707', label: '诸城市', value: '诸城市' },
           { p_id: '3707', label: '寿光市', value: '寿光市' },
@@ -2528,6 +2608,7 @@ export default [
           { p_id: '3708', label: '汶上县', value: '汶上县' },
           { p_id: '3708', label: '泗水县', value: '泗水县' },
           { p_id: '3708', label: '梁山县', value: '梁山县' },
+          { p_id: '3708', label: '济宁高新技术产业开发区', value: '济宁高新技术产业开发区' },
           { p_id: '3708', label: '曲阜市', value: '曲阜市' },
           { p_id: '3708', label: '邹城市', value: '邹城市' },
           { p_id: '3708', label: '高新区', value: '高新区' }
@@ -2555,6 +2636,12 @@ export default [
         children: [
           { p_id: '3710', label: '环翠区', value: '环翠区' },
           { p_id: '3710', label: '文登区', value: '文登区' },
+          {
+            p_id: '3710',
+            label: '威海火炬高技术产业开发区',
+            value: '威海火炬高技术产业开发区'
+          },
+          { p_id: '3710', label: '威海经济技术开发区', value: '威海经济技术开发区' },
           { p_id: '3710', label: '荣成市', value: '荣成市' },
           { p_id: '3710', label: '乳山市', value: '乳山市' },
           { p_id: '3710', label: '经济技术开发区', value: '经济技术开发区' }
@@ -2569,7 +2656,8 @@ export default [
           { p_id: '3711', label: '东港区', value: '东港区' },
           { p_id: '3711', label: '岚山区', value: '岚山区' },
           { p_id: '3711', label: '五莲县', value: '五莲县' },
-          { p_id: '3711', label: '莒县', value: '莒县' }
+          { p_id: '3711', label: '莒县', value: '莒县' },
+          { p_id: '3711', label: '日照经济技术开发区', value: '日照经济技术开发区' }
         ]
       },
       {
@@ -2589,7 +2677,8 @@ export default [
           { p_id: '3713', label: '平邑县', value: '平邑县' },
           { p_id: '3713', label: '莒南县', value: '莒南县' },
           { p_id: '3713', label: '蒙阴县', value: '蒙阴县' },
-          { p_id: '3713', label: '临沭县', value: '临沭县' }
+          { p_id: '3713', label: '临沭县', value: '临沭县' },
+          { p_id: '3713', label: '临沂高新技术产业开发区', value: '临沂高新技术产业开发区' }
         ]
       },
       {
@@ -2607,6 +2696,7 @@ export default [
           { p_id: '3714', label: '平原县', value: '平原县' },
           { p_id: '3714', label: '夏津县', value: '夏津县' },
           { p_id: '3714', label: '武城县', value: '武城县' },
+          { p_id: '3714', label: '德州运河经济开发区', value: '德州运河经济开发区' },
           { p_id: '3714', label: '乐陵市', value: '乐陵市' },
           { p_id: '3714', label: '禹城市', value: '禹城市' }
         ]
@@ -2618,9 +2708,9 @@ export default [
         value: '聊城市',
         children: [
           { p_id: '3715', label: '东昌府区', value: '东昌府区' },
+          { p_id: '3715', label: '茌平区', value: '茌平区' },
           { p_id: '3715', label: '阳谷县', value: '阳谷县' },
           { p_id: '3715', label: '莘县', value: '莘县' },
-          { p_id: '3715', label: '茌平县', value: '茌平县' },
           { p_id: '3715', label: '东阿县', value: '东阿县' },
           { p_id: '3715', label: '冠县', value: '冠县' },
           { p_id: '3715', label: '高唐县', value: '高唐县' },
@@ -2656,7 +2746,9 @@ export default [
           { p_id: '3717', label: '巨野县', value: '巨野县' },
           { p_id: '3717', label: '郓城县', value: '郓城县' },
           { p_id: '3717', label: '鄄城县', value: '鄄城县' },
-          { p_id: '3717', label: '东明县', value: '东明县' }
+          { p_id: '3717', label: '东明县', value: '东明县' },
+          { p_id: '3717', label: '菏泽经济技术开发区', value: '菏泽经济技术开发区' },
+          { p_id: '3717', label: '菏泽高新技术开发区', value: '菏泽高新技术开发区' }
         ]
       }
     ]
@@ -2679,6 +2771,13 @@ export default [
           { p_id: '4101', label: '上街区', value: '上街区' },
           { p_id: '4101', label: '惠济区', value: '惠济区' },
           { p_id: '4101', label: '中牟县', value: '中牟县' },
+          { p_id: '4101', label: '郑州经济技术开发区', value: '郑州经济技术开发区' },
+          { p_id: '4101', label: '郑州高新技术产业开发区', value: '郑州高新技术产业开发区' },
+          {
+            p_id: '4101',
+            label: '郑州航空港经济综合实验区',
+            value: '郑州航空港经济综合实验区'
+          },
           { p_id: '4101', label: '巩义市', value: '巩义市' },
           { p_id: '4101', label: '荥阳市', value: '荥阳市' },
           { p_id: '4101', label: '新密市', value: '新密市' },
@@ -2742,6 +2841,11 @@ export default [
           { p_id: '4104', label: '叶县', value: '叶县' },
           { p_id: '4104', label: '鲁山县', value: '鲁山县' },
           { p_id: '4104', label: '郏县', value: '郏县' },
+          {
+            p_id: '4104',
+            label: '平顶山高新技术产业开发区',
+            value: '平顶山高新技术产业开发区'
+          },
           { p_id: '4104', label: '舞钢市', value: '舞钢市' },
           { p_id: '4104', label: '汝州市', value: '汝州市' }
         ]
@@ -2792,9 +2896,11 @@ export default [
           { p_id: '4107', label: '原阳县', value: '原阳县' },
           { p_id: '4107', label: '延津县', value: '延津县' },
           { p_id: '4107', label: '封丘县', value: '封丘县' },
-          { p_id: '4107', label: '长垣县', value: '长垣县' },
+          { p_id: '4107', label: '新乡高新技术产业开发区', value: '新乡高新技术产业开发区' },
+          { p_id: '4107', label: '新乡经济技术开发区', value: '新乡经济技术开发区' },
           { p_id: '4107', label: '卫辉市', value: '卫辉市' },
-          { p_id: '4107', label: '辉县市', value: '辉县市' }
+          { p_id: '4107', label: '辉县市', value: '辉县市' },
+          { p_id: '4107', label: '长垣市', value: '长垣市' }
         ]
       },
       {
@@ -2811,6 +2917,7 @@ export default [
           { p_id: '4108', label: '博爱县', value: '博爱县' },
           { p_id: '4108', label: '武陟县', value: '武陟县' },
           { p_id: '4108', label: '温县', value: '温县' },
+          { p_id: '4108', label: '焦作城乡一体化示范区', value: '焦作城乡一体化示范区' },
           { p_id: '4108', label: '沁阳市', value: '沁阳市' },
           { p_id: '4108', label: '孟州市', value: '孟州市' }
         ]
@@ -2826,7 +2933,8 @@ export default [
           { p_id: '4109', label: '南乐县', value: '南乐县' },
           { p_id: '4109', label: '范县', value: '范县' },
           { p_id: '4109', label: '台前县', value: '台前县' },
-          { p_id: '4109', label: '濮阳县', value: '濮阳县' }
+          { p_id: '4109', label: '濮阳县', value: '濮阳县' },
+          { p_id: '4109', label: '河南濮阳工业园区', value: '河南濮阳工业园区' }
         ]
       },
       {
@@ -2839,6 +2947,7 @@ export default [
           { p_id: '4110', label: '建安区', value: '建安区' },
           { p_id: '4110', label: '鄢陵县', value: '鄢陵县' },
           { p_id: '4110', label: '襄城县', value: '襄城县' },
+          { p_id: '4110', label: '许昌经济技术开发区', value: '许昌经济技术开发区' },
           { p_id: '4110', label: '禹州市', value: '禹州市' },
           { p_id: '4110', label: '长葛市', value: '长葛市' }
         ]
@@ -2853,7 +2962,8 @@ export default [
           { p_id: '4111', label: '郾城区', value: '郾城区' },
           { p_id: '4111', label: '召陵区', value: '召陵区' },
           { p_id: '4111', label: '舞阳县', value: '舞阳县' },
-          { p_id: '4111', label: '临颍县', value: '临颍县' }
+          { p_id: '4111', label: '临颍县', value: '临颍县' },
+          { p_id: '4111', label: '漯河经济技术开发区', value: '漯河经济技术开发区' }
         ]
       },
       {
@@ -2866,6 +2976,7 @@ export default [
           { p_id: '4112', label: '陕州区', value: '陕州区' },
           { p_id: '4112', label: '渑池县', value: '渑池县' },
           { p_id: '4112', label: '卢氏县', value: '卢氏县' },
+          { p_id: '4112', label: '河南三门峡经济开发区', value: '河南三门峡经济开发区' },
           { p_id: '4112', label: '义马市', value: '义马市' },
           { p_id: '4112', label: '灵宝市', value: '灵宝市' }
         ]
@@ -2888,6 +2999,7 @@ export default [
           { p_id: '4113', label: '唐河县', value: '唐河县' },
           { p_id: '4113', label: '新野县', value: '新野县' },
           { p_id: '4113', label: '桐柏县', value: '桐柏县' },
+          { p_id: '4113', label: '南阳市城乡一体化示范区', value: '南阳市城乡一体化示范区' },
           { p_id: '4113', label: '邓州市', value: '邓州市' }
         ]
       },
@@ -2933,14 +3045,15 @@ export default [
         value: '周口市',
         children: [
           { p_id: '4116', label: '川汇区', value: '川汇区' },
+          { p_id: '4116', label: '淮阳区', value: '淮阳区' },
           { p_id: '4116', label: '扶沟县', value: '扶沟县' },
           { p_id: '4116', label: '西华县', value: '西华县' },
           { p_id: '4116', label: '商水县', value: '商水县' },
           { p_id: '4116', label: '沈丘县', value: '沈丘县' },
           { p_id: '4116', label: '郸城县', value: '郸城县' },
-          { p_id: '4116', label: '淮阳县', value: '淮阳县' },
           { p_id: '4116', label: '太康县', value: '太康县' },
           { p_id: '4116', label: '鹿邑县', value: '鹿邑县' },
+          { p_id: '4116', label: '河南周口经济开发区', value: '河南周口经济开发区' },
           { p_id: '4116', label: '项城市', value: '项城市' },
           { p_id: '4116', label: '经济开发区', value: '经济开发区' }
         ]
@@ -2968,7 +3081,7 @@ export default [
         p_id: '41',
         label: '省直辖县',
         value: '省直辖县',
-        children: [ { p_id: '4190', label: '济源市', value: '济源市' } ]
+        children: [{ p_id: '4190', label: '济源市', value: '济源市' }]
       }
     ]
   },
@@ -3136,6 +3249,7 @@ export default [
           { p_id: '4211', label: '浠水县', value: '浠水县' },
           { p_id: '4211', label: '蕲春县', value: '蕲春县' },
           { p_id: '4211', label: '黄梅县', value: '黄梅县' },
+          { p_id: '4211', label: '龙感湖管理区', value: '龙感湖管理区' },
           { p_id: '4211', label: '麻城市', value: '麻城市' },
           { p_id: '4211', label: '武穴市', value: '武穴市' }
         ]
@@ -3231,6 +3345,7 @@ export default [
           { p_id: '4302', label: '攸县', value: '攸县' },
           { p_id: '4302', label: '茶陵县', value: '茶陵县' },
           { p_id: '4302', label: '炎陵县', value: '炎陵县' },
+          { p_id: '4302', label: '云龙示范区', value: '云龙示范区' },
           { p_id: '4302', label: '醴陵市', value: '醴陵市' }
         ]
       },
@@ -3243,6 +3358,7 @@ export default [
           { p_id: '4303', label: '雨湖区', value: '雨湖区' },
           { p_id: '4303', label: '岳塘区', value: '岳塘区' },
           { p_id: '4303', label: '湘潭县', value: '湘潭县' },
+          { p_id: '4303', label: '湘潭九华示范区', value: '湘潭九华示范区' },
           { p_id: '4303', label: '湘乡市', value: '湘乡市' },
           { p_id: '4303', label: '韶山市', value: '韶山市' }
         ]
@@ -3276,7 +3392,6 @@ export default [
           { p_id: '4305', label: '双清区', value: '双清区' },
           { p_id: '4305', label: '大祥区', value: '大祥区' },
           { p_id: '4305', label: '北塔区', value: '北塔区' },
-          { p_id: '4305', label: '邵东县', value: '邵东县' },
           { p_id: '4305', label: '新邵县', value: '新邵县' },
           { p_id: '4305', label: '邵阳县', value: '邵阳县' },
           { p_id: '4305', label: '隆回县', value: '隆回县' },
@@ -3284,7 +3399,8 @@ export default [
           { p_id: '4305', label: '绥宁县', value: '绥宁县' },
           { p_id: '4305', label: '新宁县', value: '新宁县' },
           { p_id: '4305', label: '城步苗族自治县', value: '城步苗族自治县' },
-          { p_id: '4305', label: '武冈市', value: '武冈市' }
+          { p_id: '4305', label: '武冈市', value: '武冈市' },
+          { p_id: '4305', label: '邵东市', value: '邵东市' }
         ]
       },
       {
@@ -3344,6 +3460,7 @@ export default [
           { p_id: '4309', label: '南县', value: '南县' },
           { p_id: '4309', label: '桃江县', value: '桃江县' },
           { p_id: '4309', label: '安化县', value: '安化县' },
+          { p_id: '4309', label: '益阳市大通湖管理区', value: '益阳市大通湖管理区' },
           { p_id: '4309', label: '沅江市', value: '沅江市' }
         ]
       },
@@ -3402,6 +3519,7 @@ export default [
           { p_id: '4312', label: '芷江侗族自治县', value: '芷江侗族自治县' },
           { p_id: '4312', label: '靖州苗族侗族自治县', value: '靖州苗族侗族自治县' },
           { p_id: '4312', label: '通道侗族自治县', value: '通道侗族自治县' },
+          { p_id: '4312', label: '怀化市洪江管理区', value: '怀化市洪江管理区' },
           { p_id: '4312', label: '洪江市', value: '洪江市' }
         ]
       },
@@ -3686,27 +3804,27 @@ export default [
         value: '东莞市',
         children: [
           { p_id: '4419', label: '中堂镇', value: '中堂镇' },
-          { p_id: '4419', label: '南城街道办事处', value: '南城街道办事处' },
+          { p_id: '4419', label: '南城街道', value: '南城街道' },
           { p_id: '4419', label: '长安镇', value: '长安镇' },
           { p_id: '4419', label: '东坑镇', value: '东坑镇' },
           { p_id: '4419', label: '樟木头镇', value: '樟木头镇' },
-          { p_id: '4419', label: '莞城街道办事处', value: '莞城街道办事处' },
+          { p_id: '4419', label: '莞城街道', value: '莞城街道' },
           { p_id: '4419', label: '石龙镇', value: '石龙镇' },
           { p_id: '4419', label: '桥头镇', value: '桥头镇' },
-          { p_id: '4419', label: '万江街道办事处', value: '万江街道办事处' },
+          { p_id: '4419', label: '万江街道', value: '万江街道' },
           { p_id: '4419', label: '麻涌镇', value: '麻涌镇' },
           { p_id: '4419', label: '虎门镇', value: '虎门镇' },
           { p_id: '4419', label: '谢岗镇', value: '谢岗镇' },
           { p_id: '4419', label: '石碣镇', value: '石碣镇' },
           { p_id: '4419', label: '茶山镇', value: '茶山镇' },
-          { p_id: '4419', label: '东城街道办事处', value: '东城街道办事处' },
+          { p_id: '4419', label: '东城街道', value: '东城街道' },
           { p_id: '4419', label: '洪梅镇', value: '洪梅镇' },
           { p_id: '4419', label: '道滘镇', value: '道滘镇' },
           { p_id: '4419', label: '高埗镇', value: '高埗镇' },
           { p_id: '4419', label: '企石镇', value: '企石镇' },
           { p_id: '4419', label: '凤岗镇', value: '凤岗镇' },
           { p_id: '4419', label: '大岭山镇', value: '大岭山镇' },
-          { p_id: '4419', label: '松山湖管委会', value: '松山湖管委会' },
+          { p_id: '4419', label: '松山湖', value: '松山湖' },
           { p_id: '4419', label: '清溪镇', value: '清溪镇' },
           { p_id: '4419', label: '望牛墩镇', value: '望牛墩镇' },
           { p_id: '4419', label: '厚街镇', value: '厚街镇' },
@@ -3731,10 +3849,10 @@ export default [
           { p_id: '4420', label: '南头镇', value: '南头镇' },
           { p_id: '4420', label: '神湾镇', value: '神湾镇' },
           { p_id: '4420', label: '东凤镇', value: '东凤镇' },
-          { p_id: '4420', label: '五桂山街道办事处', value: '五桂山街道办事处' },
+          { p_id: '4420', label: '五桂山街道', value: '五桂山街道' },
           { p_id: '4420', label: '黄圃镇', value: '黄圃镇' },
           { p_id: '4420', label: '小榄镇', value: '小榄镇' },
-          { p_id: '4420', label: '石岐区街道办事处', value: '石岐区街道办事处' },
+          { p_id: '4420', label: '石岐街道', value: '石岐街道' },
           { p_id: '4420', label: '横栏镇', value: '横栏镇' },
           { p_id: '4420', label: '三角镇', value: '三角镇' },
           { p_id: '4420', label: '三乡镇', value: '三乡镇' },
@@ -3744,10 +3862,10 @@ export default [
           { p_id: '4420', label: '东升镇', value: '东升镇' },
           { p_id: '4420', label: '阜沙镇', value: '阜沙镇' },
           { p_id: '4420', label: '民众镇', value: '民众镇' },
-          { p_id: '4420', label: '东区街道办事处', value: '东区街道办事处' },
+          { p_id: '4420', label: '东区街道', value: '东区街道' },
           { p_id: '4420', label: '火炬开发区街道办事处', value: '火炬开发区街道办事处' },
-          { p_id: '4420', label: '西区街道办事处', value: '西区街道办事处' },
-          { p_id: '4420', label: '南区街道办事处', value: '南区街道办事处' },
+          { p_id: '4420', label: '西区街道', value: '西区街道' },
+          { p_id: '4420', label: '南区街道', value: '南区街道' },
           { p_id: '4420', label: '古镇镇', value: '古镇镇' },
           { p_id: '4420', label: '坦洲镇', value: '坦洲镇' },
           { p_id: '4420', label: '大涌镇', value: '大涌镇' },
@@ -3947,9 +4065,8 @@ export default [
         value: '百色市',
         children: [
           { p_id: '4510', label: '右江区', value: '右江区' },
-          { p_id: '4510', label: '田阳县', value: '田阳县' },
+          { p_id: '4510', label: '田阳区', value: '田阳区' },
           { p_id: '4510', label: '田东县', value: '田东县' },
-          { p_id: '4510', label: '平果县', value: '平果县' },
           { p_id: '4510', label: '德保县', value: '德保县' },
           { p_id: '4510', label: '那坡县', value: '那坡县' },
           { p_id: '4510', label: '凌云县', value: '凌云县' },
@@ -3957,7 +4074,8 @@ export default [
           { p_id: '4510', label: '田林县', value: '田林县' },
           { p_id: '4510', label: '西林县', value: '西林县' },
           { p_id: '4510', label: '隆林各族自治县', value: '隆林各族自治县' },
-          { p_id: '4510', label: '靖西市', value: '靖西市' }
+          { p_id: '4510', label: '靖西市', value: '靖西市' },
+          { p_id: '4510', label: '平果市', value: '平果市' }
         ]
       },
       {
@@ -4058,9 +4176,8 @@ export default [
         label: '三沙市',
         value: '三沙市',
         children: [
-          { p_id: '4603', label: '西沙群岛', value: '西沙群岛' },
-          { p_id: '4603', label: '南沙群岛', value: '南沙群岛' },
-          { p_id: '4603', label: '中沙群岛的岛礁及其海域', value: '中沙群岛的岛礁及其海域' }
+          { p_id: '4603', label: '西沙区', value: '西沙区' },
+          { p_id: '4603', label: '南沙区', value: '南沙区' }
         ]
       },
       {
@@ -4307,8 +4424,8 @@ export default [
           { p_id: '5109', label: '船山区', value: '船山区' },
           { p_id: '5109', label: '安居区', value: '安居区' },
           { p_id: '5109', label: '蓬溪县', value: '蓬溪县' },
-          { p_id: '5109', label: '射洪县', value: '射洪县' },
-          { p_id: '5109', label: '大英县', value: '大英县' }
+          { p_id: '5109', label: '大英县', value: '大英县' },
+          { p_id: '5109', label: '射洪市', value: '射洪市' }
         ]
       },
       {
@@ -4447,7 +4564,8 @@ export default [
           { p_id: '5119', label: '恩阳区', value: '恩阳区' },
           { p_id: '5119', label: '通江县', value: '通江县' },
           { p_id: '5119', label: '南江县', value: '南江县' },
-          { p_id: '5119', label: '平昌县', value: '平昌县' }
+          { p_id: '5119', label: '平昌县', value: '平昌县' },
+          { p_id: '5119', label: '巴中经济开发区', value: '巴中经济开发区' }
         ]
       },
       {
@@ -4754,7 +4872,6 @@ export default [
         children: [
           { p_id: '5304', label: '红塔区', value: '红塔区' },
           { p_id: '5304', label: '江川区', value: '江川区' },
-          { p_id: '5304', label: '澄江县', value: '澄江县' },
           { p_id: '5304', label: '通海县', value: '通海县' },
           { p_id: '5304', label: '华宁县', value: '华宁县' },
           { p_id: '5304', label: '易门县', value: '易门县' },
@@ -4764,7 +4881,8 @@ export default [
             p_id: '5304',
             label: '元江哈尼族彝族傣族自治县',
             value: '元江哈尼族彝族傣族自治县'
-          }
+          },
+          { p_id: '5304', label: '澄江市', value: '澄江市' }
         ]
       },
       {
@@ -5228,7 +5346,6 @@ export default [
           { p_id: '6106', label: '安塞区', value: '安塞区' },
           { p_id: '6106', label: '延长县', value: '延长县' },
           { p_id: '6106', label: '延川县', value: '延川县' },
-          { p_id: '6106', label: '子长县', value: '子长县' },
           { p_id: '6106', label: '志丹县', value: '志丹县' },
           { p_id: '6106', label: '吴起县', value: '吴起县' },
           { p_id: '6106', label: '甘泉县', value: '甘泉县' },
@@ -5236,7 +5353,8 @@ export default [
           { p_id: '6106', label: '洛川县', value: '洛川县' },
           { p_id: '6106', label: '宜川县', value: '宜川县' },
           { p_id: '6106', label: '黄龙县', value: '黄龙县' },
-          { p_id: '6106', label: '黄陵县', value: '黄陵县' }
+          { p_id: '6106', label: '黄陵县', value: '黄陵县' },
+          { p_id: '6106', label: '子长市', value: '子长市' }
         ]
       },
       {
@@ -5331,7 +5449,8 @@ export default [
           { p_id: '6201', label: '红古区', value: '红古区' },
           { p_id: '6201', label: '永登县', value: '永登县' },
           { p_id: '6201', label: '皋兰县', value: '皋兰县' },
-          { p_id: '6201', label: '榆中县', value: '榆中县' }
+          { p_id: '6201', label: '榆中县', value: '榆中县' },
+          { p_id: '6201', label: '兰州新区', value: '兰州新区' }
         ]
       },
       {
@@ -5544,8 +5663,8 @@ export default [
           { p_id: '6301', label: '城中区', value: '城中区' },
           { p_id: '6301', label: '城西区', value: '城西区' },
           { p_id: '6301', label: '城北区', value: '城北区' },
+          { p_id: '6301', label: '湟中区', value: '湟中区' },
           { p_id: '6301', label: '大通回族土族自治县', value: '大通回族土族自治县' },
-          { p_id: '6301', label: '湟中县', value: '湟中县' },
           { p_id: '6301', label: '湟源县', value: '湟源县' }
         ]
       },
@@ -5639,7 +5758,8 @@ export default [
           { p_id: '6328', label: '茫崖市', value: '茫崖市' },
           { p_id: '6328', label: '乌兰县', value: '乌兰县' },
           { p_id: '6328', label: '都兰县', value: '都兰县' },
-          { p_id: '6328', label: '天峻县', value: '天峻县' }
+          { p_id: '6328', label: '天峻县', value: '天峻县' },
+          { p_id: '6328', label: '大柴旦行政委员会', value: '大柴旦行政委员会' }
         ]
       }
     ]
@@ -5819,8 +5939,8 @@ export default [
         value: '阿克苏地区',
         children: [
           { p_id: '6529', label: '阿克苏市', value: '阿克苏市' },
+          { p_id: '6529', label: '库车市', value: '库车市' },
           { p_id: '6529', label: '温宿县', value: '温宿县' },
-          { p_id: '6529', label: '库车县', value: '库车县' },
           { p_id: '6529', label: '沙雅县', value: '沙雅县' },
           { p_id: '6529', label: '新和县', value: '新和县' },
           { p_id: '6529', label: '拜城县', value: '拜城县' },
@@ -5940,7 +6060,8 @@ export default [
           { p_id: '6590', label: '铁门关市', value: '铁门关市' },
           { p_id: '6590', label: '双河市', value: '双河市' },
           { p_id: '6590', label: '可克达拉市', value: '可克达拉市' },
-          { p_id: '6590', label: '昆玉市', value: '昆玉市' }
+          { p_id: '6590', label: '昆玉市', value: '昆玉市' },
+          { p_id: '6590', label: '胡杨河市', value: '胡杨河市' }
         ]
       }
     ]
@@ -6258,8 +6379,8 @@ export default [
       {
         id: '7114',
         p_id: '71',
-        label: '桃园县',
-        value: '桃园县',
+        label: '桃园市',
+        value: '桃园市',
         children: [
           { p_id: '7114', label: '中坜区', value: '中坜区' },
           { p_id: '7114', label: '平镇区', value: '平镇区' },
